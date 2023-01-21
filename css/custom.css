@@ -1,1 +1,5 @@
 /* Your custom css code goes here */
+*{scroll-behavior: smooth;}
+.sticky-header {
+    position: sticky; top: 0;
+}
